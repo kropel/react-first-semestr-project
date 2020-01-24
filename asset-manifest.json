@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-first-semestr-project/static/css/main.7984b983.chunk.css",
-    "main.js": "/react-first-semestr-project/static/js/main.30107e7e.chunk.js",
-    "main.js.map": "/react-first-semestr-project/static/js/main.30107e7e.chunk.js.map",
+    "main.js": "/react-first-semestr-project/static/js/main.96bb593c.chunk.js",
+    "main.js.map": "/react-first-semestr-project/static/js/main.96bb593c.chunk.js.map",
     "runtime-main.js": "/react-first-semestr-project/static/js/runtime-main.257e8481.js",
     "runtime-main.js.map": "/react-first-semestr-project/static/js/runtime-main.257e8481.js.map",
     "static/js/2.64d8b4fb.chunk.js": "/react-first-semestr-project/static/js/2.64d8b4fb.chunk.js",
     "static/js/2.64d8b4fb.chunk.js.map": "/react-first-semestr-project/static/js/2.64d8b4fb.chunk.js.map",
     "index.html": "/react-first-semestr-project/index.html",
-    "precache-manifest.eda7b582c5ee08a5aa4749ad8914adfd.js": "/react-first-semestr-project/precache-manifest.eda7b582c5ee08a5aa4749ad8914adfd.js",
+    "precache-manifest.85185fa31dad5e45e793769a0e3f7a9b.js": "/react-first-semestr-project/precache-manifest.85185fa31dad5e45e793769a0e3f7a9b.js",
     "service-worker.js": "/react-first-semestr-project/service-worker.js",
     "static/css/main.7984b983.chunk.css.map": "/react-first-semestr-project/static/css/main.7984b983.chunk.css.map",
     "static/js/2.64d8b4fb.chunk.js.LICENSE": "/react-first-semestr-project/static/js/2.64d8b4fb.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.257e8481.js",
     "static/js/2.64d8b4fb.chunk.js",
     "static/css/main.7984b983.chunk.css",
-    "static/js/main.30107e7e.chunk.js"
+    "static/js/main.96bb593c.chunk.js"
   ]
 }
